@@ -1,5 +1,5 @@
 <svg width="0" height="0" class="hidden">
-  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1920.000000 1080.000000" id="co2">
+  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1920.000000 1080.000000" id="co2_reading">
     <g transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)" fill="green" stroke="none">
       <path d="M11467 10043 c-15 -16 -27 -32 -27 -36 0 -8 -71 -111 -145 -212 -24
         -33 -44 -65 -44 -72 -1 -15 -33 -33 -58 -33 -10 0 -31 7 -48 16 -16 9 -48 22
@@ -279,14 +279,14 @@
     211 76 354 201 450 391 40 80 79 205 71 227 -7 16 -25 17 -31 1z"></path>
         </g>
   </symbol>
-  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 90.000000 90.000000" id="supply">
+  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 90.000000 90.000000" id="temp_supply_1">
     <g transform="translate(0.000000,66.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
       <path d="M432 543 c-23 -20 -41 -73 -24 -73 5 0 15 13 22 30 21 50 86 53 108 5 14 -29 2 -69 -23 -79 -9 -3 -104 -6 -211 -6 -123 0 -194 -4 -194 -10 0 -13 395 -13 420 0 25 13 41 65 30 94 -19 52 -88 72 -128 39z"></path>
       <path d="M635 465 c-24 -23 -36 -73 -15 -60 6 3 10 12 10 19 0 19 34 46 58 46 51 0 81 -70 44 -103 -16 -15 -50 -17 -268 -17 -143 0 -255 -4 -264 -10 -10 -6 78 -10 257 -10 l272 0 20 26 c29 37 26 70 -8 105 -36 36 -73 37 -106 4z"></path>
       <path d="M155 250 c4 -6 85 -10 211 -10 191 0 205 -1 224 -20 25 -25 25 -55 0 -80 -36 -36 -82 -21 -105 35 -8 19 -9 18 -13 -5 -8 -49 76 -90 119 -57 27 20 41 56 34 88 -12 55 -28 59 -263 59 -140 0 -211 -3 -207 -10z"></path>
     </g>
   </symbol>
-  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 74.000000 74.000000" id="humidity">
+  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 74.000000 74.000000" id="relative_humidity">
     <g transform="translate(0.000000,74.000000) scale(0.100000,-0.100000)" fill="#0070fc" stroke="none">
       <path d="M270 635 c-61 -20 -116 -67 -146 -128 -23 -44 -26 -60 -22 -127 4
                                 -96 38 -159 112 -204 54 -34 156 -48 195 -27 26 15 30 57 4 46 -68 -26 -146
@@ -305,7 +305,7 @@
     </g>
   </symbol>
   
-  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 64.000000 64.000000" id="injection">
+  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 64.000000 64.000000" id="ripener_prueba">
     <g transform="translate(0.000000,64.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
       <path d="M275 579 c-40 -12 -58 -28 -84 -69 -38 -62 -21 -148 38 -191 46 -34
                                 41 -53 -11 -45 -49 7 -48 7 -145 0 l-73 -6 0 -99 0 -99 68 -1 c112 0 422 -1
@@ -406,7 +406,7 @@
                             211 76 354 201 450 391 40 80 79 205 71 227 -7 16 -25 17 -31 1z"></path>
     </g>
   </symbol>
-  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 492.000000 282.000000" id="compressor">
+  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 492.000000 282.000000" id="compress_coil_1">
     <g transform="translate(0.000000,282.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
       <path d="M1455 2538 c-53 -15 -137 -99 -153 -154 -9 -31 -12 -216 -12 -719 l0
 -678 -51 -54 c-27 -29 -62 -79 -77 -110 -24 -52 -27 -70 -27 -163 0 -93 3
